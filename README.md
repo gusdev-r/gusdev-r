@@ -55,7 +55,7 @@
 
 
   <h4 align="center">
-     In 2022 I began my studies in the technology area, where I've been carrying out projects and exercises, working as a freelancer mainly with Java.  - ✉️| How to reach me     
+     In 2022 I began my studies in the technology area, where I've been carrying out projects and exercises, working  with Java, React, Python and JavaScript.  - ✉️| How to reach me     
      g.hen.moreira@gmail.com
   </h4>     
 
