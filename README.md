@@ -55,7 +55,6 @@
     <img align="center" alt="Git" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" />
     <img align="center" alt="GitHub Actions" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" />
     <img align="center" alt="GitLab" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitLab-Dark.svg" />
-    <img align="center" alt="GithubActions" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" />
     <img align="center" alt="Nginx" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Nginx.svg" />
     <img align="center" alt="RabbitMQ" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RabbitMQ-Dark.svg" />
   </div>
