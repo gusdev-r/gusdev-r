@@ -61,7 +61,7 @@
 </div>
 
 <h4 align="center">
-  In 2022, I began my studies in technology, working with Java, Python, Node, and JavaScript, and I'm currently a Software Engineering student at the Catholic University of Brasília. - ✉️| How to reach me
+  In 2022, I began my studies in technology, working with Java, Python, Node, and React, and I'm currently a Software Engineering student at the Catholic University of Brasília. - ✉️| How to reach me
    g.hen.moreira@gmail.com
 </h4>
 
