@@ -9,65 +9,82 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gusdev-r&bg_color=0d1117&color=6A5ACD&line=D3D3D3&point=6A5ACD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h4 align="center">Technologies of my knowledge:</h4>
-
-<!--
-<style>
-  .skill-icon {
-    margin-top: 10px;
-    margin-right: 10px;
-  }
-</style>
--->
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <h4> Linguagens </h4>
-  <div>
-    <img style="margin: 10px" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Java-Dark.svg" />
-    <img style="margin: 10px" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Python-Dark.svg" />
-    <img style="margin: 10px" alt="Node.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NodeJS-Dark.svg" />
-    <img style="margin: 10px" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" />
-    <img style="margin: 10px" alt="TypeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" />
-  </div>
-
-  <h4> Frameworks </h4>
-  <div>
-    <img style="margin: 10px" alt="Spring Boot" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Spring-Dark.svg" />
-    <img style="margin: 10px" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Django.svg" />
-    <img style="margin: 10px" alt="Flask" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Flask-Dark.svg" />
-    <img style="margin: 10px" alt="React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" />
-    <img style="margin: 10px" alt="Express" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ExpressJS-Dark.svg" />
-  </div>
-
-  <h4> Banco de dados </h4>
-  <div>
-    <img style="margin: 10px" alt="PostgreSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Dark.svg" />
-    <img style="margin: 10px" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MySQL-Dark.svg" />
-    <img style="margin: 10px" alt="MongoDB" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" />
-  </div>
-
-  <h4> Outros </h4>
-  <div style="margin-bottom: 3rem">
-    <img style="margin: 10px" alt="Grafana" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Grafana-Dark.svg" />
-    <img style="margin: 10px" alt="Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Figma-Dark.svg" />
-    <img style="margin: 10px" alt="Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Linux-Dark.svg" />
-    <img style="margin: 10px" alt="Windows" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Windows-Dark.svg" />
-    <img style="margin: 10px" alt="Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" />
-    <img style="margin: 10px" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" />
-    <img style="margin: 10px" alt="GitHub Actions" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GithubActions-Dark.svg" />
-    <img style="margin: 10px" alt="GitLab" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/GitLab-Dark.svg" />
-    <img style="margin: 10px" alt="Nginx" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Nginx.svg" />
-    <img style="margin: 10px" alt="RabbitMQ" height="60" width="70" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/RabbitMQ-Dark.svg" />
-    <img style="margin: 10px" alt="Postman" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
-    <img style="margin: 10px" alt="GraphQL" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" />
+  <h3> Backend </h3>
+  <div style="margin-bottom: 2rem">
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,javascript,typescript&theme=dark" alt="Programming Languages" />
+    </br>
+      <img src="https://skillicons.dev/icons?i=spring,django,flask,express,hibernate&theme=dark" alt="Backend Frameworks" />
+  </br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark" alt="Databases" />
   </div>
 </div>
 
+<div align="center">
+  <h3>Cloud & DevOps</h3>
+  <div style="margin-bottom: 2rem">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,nginx,rabbitmq,elasticsearch&theme=dark" alt="Cloud & DevOps" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=githubactions,gitlab,git,grafana&theme=dark" alt="CI/CD & Monitoring" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,cloudflare&theme=dark" alt="Cloud & DevOps" />
+    <img src="https://www.svgrepo.com/show/448256/vault.svg" alt="argocd" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+  </div>
+</div>
+
+<div align="center">
+  <h3>Frontend</h3>
+  <div style="margin-bottom: 2rem">
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,figma&theme=dark" alt="Frontend Technologies" />
+  </div>
+</div>
+
+<div align="center">
+  <h3>🛡Segurança & Monitoramento</h3>
+  <div style="margin-bottom: 2rem">
+    <p><strong>Cibersegurança:</strong> IriusRisk, HCL AppScan, SonarQube, Keycloak</p>
+    <p><strong>Monitoramento:</strong> Grafana, ElasticSearch, Kibana</p>
+  </div>
+</div>
+
+<div align="center">
+  <h3>Ferramentas & Sistemas</h3>
+  <div style="margin-bottom: 2rem">
+    <img src="https://skillicons.dev/icons?i=linux,windows,postman&theme=dark" alt="Tools & Systems" />
+  </div>
+</div>
+
+<div align="center">
+  <h3>Metodologias Ágeis</h3>
+  <div style="margin-bottom: 2rem">
+    <p><strong>Scrum</strong> | <strong>Kanban</strong> | <strong>Extreme Programming</strong></p>
+  </div>
+</div>
+
+## Princípios, Arquiteturas e Padrões Técnicos
+
+### Arquiteturas & Padrões
+- **Event Driven Architecture** | **Multi-Tenant Architecture** | **Serverless Architecture** 
+- **Monolithic Architecture** | **Microservices**
+
+### Princípios de Desenvolvimento
+- **SOLID** | **KISS** | **DRY** | **YAGNI** | **ACID** | **OOP**
+
+### APIs & Protocolos
+- **HTTP** | **REST** | **GraphQL** | **Webhook**
+
+### Observabilidade
+- **APM** | **Distributed Tracing** | **Monitoring** | **Logging** | **Instrumentation**
+
 <h4 align="center">
-  In 2022, I began my studies in technology, working with Java, Python, Node, and React, and I'm currently a Software Engineering student at the Catholic University of Brasília. - ✉️| How to reach me g.hen.moreira@gmail.com
+  Iniciei meus estudos em tecnologia em 2022, trabalhando com Java, Python, Node.js e React. Atualmente sou estudante de Engenharia de Software na Universidade Católica de Brasília, com foco em desenvolvimento full-stack e práticas de DevOps.
 </h4>
 
 <div align="center">
+  <h3>Como me encontrar</h3>
   <a href="https://www.instagram.com/gusdev_r?igsh=MWltaGVpNjhoNWRidA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/0812-gus-dev-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5JCRr5NFMF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
