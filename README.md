@@ -1,9 +1,13 @@
 ## 👨🏽‍💻 Sobre mim
 
-Sou Gustavo Moreira, desenvolvedor full stack com experiência em Java, Python, Node.js e React, com foco em soluções escaláveis e arquiteturas modernas.  
-Ao longo da minha trajetória, venho atuando em projetos que envolvem microserviços, arquitetura orientada a eventos e práticas de DevOps.
+Engenheiro de Software | Desenvolvedor Full-Stack | Entusiasta de DevSecOps
 
-Tenho facilidade em trabalhar com código limpo, princípios SOLID e me adaptar a ambientes de alta complexidade, sempre focado em entrega de valor e colaboração em equipe.
+Estudante de Engenharia de Software na Universidade Católica de Brasília, com mais de 3 anos de experiência em desenvolvimento e práticas modernas de DevOps. Focado em arquiteturas escaláveis e soluções robustas para sistemas distribuídos.
+
+Você pode conhecer mais sobre meu trabalho, acompanhar meus projetos e se conectar comigo aqui:
+
+- 🔗 **Redes sociais:** [https://linktr.ee/guhsdev](https://linktr.ee/guhsdev)  
+- 🧩 **Portfólio:** [https://gusdev-r.github.io/gusdevr-portfolio/](https://gusdev-r.github.io/gusdevr-portfolio/)
 
 ---
 
@@ -65,11 +69,12 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
 
 
 <div align="center">
-  <h3>Como me encontrar</h3>
+  <h3>Redes sociais</h3>
   <a href="https://www.instagram.com/gusdev_r?igsh=MWltaGVpNjhoNWRidA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/0812-gus-dev-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5JCRr5NFMF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:g.hen.moreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
 ---
