@@ -65,12 +65,14 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
 
 
 <div align="center">
-  <h2>Como me encontrar</h2>
+  <h3>Como me encontrar</h3>
   <a href="https://www.instagram.com/gusdev_r?igsh=MWltaGVpNjhoNWRidA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/0812-gus-dev-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5JCRr5NFMF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:g.hen.moreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+---
 
 <div align="right">
   <sub>Gustavo Moreira • Software Engineer | Backend Developer</sub>
