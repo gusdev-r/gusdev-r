@@ -18,7 +18,7 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
 
 **Arquiteturas:** Event Driven Architecture • Multi-Tenant Architecture • Serverless Architecture • Monolithic Architecture • Microservices
 
-**Princípios:** SOLID • KISS • DRY • YAGNI • ACID • OOP
+**Princípios:** SOLID • KISS • DRY • YAGNI • ACID • OOP • Object Calisthenics • Refactoring
 
 **APIs & Protocolos:** HTTP • REST • GraphQL • Webhook
 
