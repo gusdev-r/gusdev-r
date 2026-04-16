@@ -2,7 +2,7 @@
 
 Engenheiro de Software | Desenvolvedor Full-Stack | Entusiasta de DevSecOps
 
-Estudante de Engenharia de Software na Universidade Católica de Brasília, com mais de 3 anos de experiência em desenvolvimento e práticas modernas de DevOps. Focado em arquiteturas escaláveis e soluções robustas para sistemas distribuídos.
+Estudante de Engenharia de Software na Universidade Católica de Brasília, com mais de 2 anos de experiência em desenvolvimento e práticas modernas de DevOps. Focado em arquiteturas escaláveis e soluções robustas para sistemas distribuídos.
 
 Você pode conhecer mais sobre meu trabalho, acompanhar meus projetos e se conectar comigo aqui:
 
@@ -57,6 +57,7 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Scrum/Kanban-6DB33F?style=flat&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
 </p>
 
 ---
