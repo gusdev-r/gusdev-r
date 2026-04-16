@@ -58,6 +58,9 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Scrum/Kanban-6DB33F?style=flat&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 </p>
 
 ---
