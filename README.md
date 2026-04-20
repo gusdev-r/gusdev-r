@@ -62,6 +62,7 @@ Experiência em arquitetura de microserviços, event-driven architecture e multi
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)" />
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
 </p>
 
 ---
