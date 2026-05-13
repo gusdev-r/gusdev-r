@@ -2,7 +2,7 @@
 
 Engenheiro de Software | Desenvolvedor Full-Stack | Entusiasta de DevSecOps
 
-Estudante de Engenharia de Software na Universidade Católica de Brasília, com mais de 2 anos de experiência em desenvolvimento e práticas modernas de DevOps. Focado em arquiteturas escaláveis e soluções robustas para sistemas distribuídos.
+Estudante de Engenharia de Software na Universidade Católica de Brasília, com mais de 3 anos de experiência em desenvolvimento e práticas modernas de DevOps. Focado em arquiteturas escaláveis e soluções robustas para sistemas distribuídos.
 
 Você pode conhecer mais sobre meu trabalho, acompanhar meus projetos e se conectar comigo aqui:
 
